@@ -29,9 +29,6 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 Built with React.js for the user interface, Appwrite for backend services, and styled with TailwindCSS, this Movie App lets users browse trending movies, search titles, and explore content using the TMDB API. It features a responsive layout and a sleek, modern design.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
