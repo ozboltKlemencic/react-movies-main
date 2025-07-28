@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <br />
     <a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank">
       <img src="public/readme/hero.png" alt="Project Banner">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A Movie Application</h3>
+  <h3>A Movie Application</h3>
 
   
 
